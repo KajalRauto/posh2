@@ -1,0 +1,479 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Kajal",
+      "lastname": "Rauto",
+      "username": "kajalrauto",
+      "email": "kajalrauto@gmail.com",
+      "password": "Kajal@240",
+      "cartItem": [
+        {
+          "id": "24",
+          "image": "wow1.jpg",
+          "brand": "wow",
+          "name": "GOSTYLE",
+          "desc": "Textured Bodycon Dress",
+          "price": "Rs. 520",
+          "size": "S",
+          "qty": 7
+        },
+        {
+          "id": "24",
+          "image": "wow1.jpg",
+          "brand": "wow",
+          "name": "GOSTYLE",
+          "desc": "Textured Bodycon Dress",
+          "price": "Rs. 520",
+          "size": "L",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kajal",
+      "lastname": "Rauto",
+      "username": "kajalrauto1",
+      "email": "kajalrauto2410@gmail.com",
+      "password": "Kajal@2410",
+      "cartItem": [
+        {
+          "id": "22",
+          "image": "vero2.jpg",
+          "brand": "vero",
+          "name": "VERO MODA",
+          "desc": "Textured Crew Neck Cardigan",
+          "price": "Rs. 920",
+          "size": "M",
+          "qty": 1
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "id": "1",
+      "image": "banner1.jpg",
+      "brand": "Banner",
+      "alt": "First Slide",
+      "variety": "vero"
+    },
+    {
+      "id": "2",
+      "image": "banner2.jpg",
+      "brand": "Banner",
+      "alt": "Second Slide",
+      "variety": "ethnic"
+    },
+    {
+      "id": "3",
+      "image": "banner3.jpg",
+      "brand": "Banner",
+      "alt": "Third Slide",
+      "variety": "spykar"
+    },
+    {
+      "id": "4",
+      "image": "category1.jpg",
+      "brand": "Category",
+      "variety": "wow"
+    },
+    {
+      "id": "5",
+      "image": "category2.jpg",
+      "brand": "Category",
+      "variety": "louis"
+    },
+    {
+      "id": "6",
+      "image": "category3.jpg",
+      "brand": "Category",
+      "variety": "dress"
+    },
+    {
+      "id": "7",
+      "image": "productnewbalance.jpg",
+      "brand": "products",
+      "variety": "newbalance"
+    },
+    {
+      "id": "8",
+      "image": "productallensolly.jpg",
+      "brand": "products",
+      "variety": "allen"
+    },
+    {
+      "id": "9",
+      "image": "productavaasa.jpg",
+      "brand": "products",
+      "variety": "avaasa"
+    },
+    {
+      "id": "10",
+      "image": "productgas.jpg",
+      "brand": "products",
+      "variety": "gas"
+    },
+    {
+      "id": "11",
+      "image": "producrhomecenter.jpg",
+      "brand": "products",
+      "variety": "home"
+    },
+    {
+      "id": "12",
+      "image": "productuspolo.jpg",
+      "brand": "products",
+      "variety": "uspolo"
+    },
+    {
+      "id": "13",
+      "image": "productraymond.jpg",
+      "brand": "products",
+      "variety": "raymond"
+    },
+    {
+      "id": "14",
+      "image": "productrarerabbit.jpg",
+      "brand": "products",
+      "variety": "rarerabbit"
+    },
+    {
+      "id": "15",
+      "image": "spykar1.jpg",
+      "brand": "spykar",
+      "name": "Lee Cooper",
+      "desc": "Lightly washed Slim Fit jeans",
+      "price": "Rs. 1450"
+    },
+    {
+      "id": "16",
+      "image": "spykar2.jpg",
+      "brand": "spykar",
+      "name": "Lee Cooper",
+      "desc": "Mid-Rise Fitted Jeans",
+      "price": "Rs. 1450"
+    },
+    {
+      "id": "17",
+      "image": "spykar3.jpg",
+      "brand": "spykar",
+      "name": "Lee Cooper",
+      "desc": "High-Rise Fitted Jeans",
+      "price": "Rs. 1450"
+    },
+    {
+      "id": "18",
+      "image": "ethnic1.jpg",
+      "brand": "ethnic",
+      "name": "Stylum",
+      "desc": "Floral Print Straight Kurta",
+      "price": "Rs. 1450"
+    },
+    {
+      "id": "19",
+      "image": "ethnic2.jpg",
+      "brand": "ethnic",
+      "name": "Gulmohar Jaipur",
+      "desc": "Embroidered A-line Kurta",
+      "price": "Rs. 699"
+    },
+    {
+      "id": "20",
+      "image": "ethnic3.jpg",
+      "brand": "ethnic",
+      "name": "FOUR SEASONS",
+      "desc": "Embellished Round-Neck Straight Kurta",
+      "price": "Rs. 639"
+    },
+    {
+      "id": "21",
+      "image": "vero1.jpg",
+      "brand": "vero",
+      "name": "VERO MODA",
+      "desc": "Knitted Round Neck Sweater",
+      "price": "Rs. 1450"
+    },
+    {
+      "id": "22",
+      "image": "vero2.jpg",
+      "brand": "vero",
+      "name": "VERO MODA",
+      "desc": "Textured Crew Neck Cardigan",
+      "price": "Rs. 920"
+    },
+    {
+      "id": "23",
+      "image": "vero3.jpg",
+      "brand": "vero",
+      "name": "VERO MODA",
+      "desc": "Textured Round-Neck Pullover",
+      "price": "Rs. 260"
+    },
+    {
+      "id": "24",
+      "image": "wow1.jpg",
+      "brand": "wow",
+      "name": "GOSTYLE",
+      "desc": "Textured Bodycon Dress",
+      "price": "Rs. 520"
+    },
+    {
+      "id": "25",
+      "image": "wow2.jpg",
+      "brand": "wow",
+      "name": "GOSTYLE",
+      "desc": "Embroidered Fit & Flare Dress",
+      "price": "Rs. 920"
+    },
+    {
+      "id": "26",
+      "image": "wow3.jpg",
+      "brand": "wow",
+      "name": "GOSTYLE",
+      "desc": "Panelled A-line Dress",
+      "price": "Rs. 900"
+    },
+    {
+      "id": "27",
+      "image": "louis1.jpg",
+      "brand": "louis",
+      "name": "LOUIS PHILIPPE",
+      "desc": "Genuine Leather Derby Shoes",
+      "price": "Rs. 1450"
+    },
+    {
+      "id": "28",
+      "image": "louis2.jpg",
+      "brand": "louis",
+      "name": "LOUIS PHILIPPE",
+      "desc": "Slim Fit Flat-Front Trousers",
+      "price": "Rs. 920"
+    },
+    {
+      "id": "29",
+      "image": "louis3.jpg",
+      "brand": "louis",
+      "name": "LOUIS PHILIPPE",
+      "desc": "Slim Fit Shirt With Patch Pocket",
+      "price": "Rs. 260"
+    },
+    {
+      "id": "30",
+      "image": "dress1.jpg",
+      "brand": "dress",
+      "name": "Outryt",
+      "desc": "Women Sleeveless Bodycon Dress",
+      "price": "Rs. 1450"
+    },
+    {
+      "id": "31",
+      "image": "dress2.jpg",
+      "brand": "dress",
+      "name": "Kimayra",
+      "desc": "Paisley Print Fit & Flare Dress",
+      "price": "Rs. 749"
+    },
+    {
+      "id": "32",
+      "image": "dress3.jpg",
+      "brand": "dress",
+      "name": "JAVTA",
+      "desc": "Block Print Gown dress With Tassels",
+      "price": "Rs. 800"
+    },
+    {
+      "id": "33",
+      "image": "newbalance1.jpg",
+      "brand": "newbalance",
+      "name": "NEW BALANCE",
+      "desc": "997 Panelled Lace-Up Running Shoes",
+      "price": "Rs. 5719"
+    },
+    {
+      "id": "34",
+      "image": "newbalance2.jpg",
+      "brand": "newbalance",
+      "name": "NEW BALANCE",
+      "desc": "Low-Top Lace-Up Casual Shoes",
+      "price": "Rs. 2899"
+    },
+    {
+      "id": "35",
+      "image": "newbalance3.jpg",
+      "brand": "newbalance",
+      "name": "NEW BALANCE",
+      "desc": "VARE Lace-Up Running Shoes",
+      "price": "Rs. 5399"
+    },
+    {
+      "id": "36",
+      "image": "allen1.jpg",
+      "brand": "allen",
+      "name": "ALLENSOLLY",
+      "desc": "Slim Fit Nehru Jacket",
+      "price": "Rs. 2500"
+    },
+    {
+      "id": "37",
+      "image": "allen2.jpg",
+      "brand": "allen",
+      "name": "ALLENSOLLY",
+      "desc": "Checked A-line Dress",
+      "price": "Rs. 1250"
+    },
+    {
+      "id": "38",
+      "image": "allen3.jpg",
+      "brand": "allen",
+      "name": "ALLENSOLLY",
+      "desc": "Formal Solid Waistcoat",
+      "price": "Rs. 1750"
+    },
+    {
+      "id": "39",
+      "image": "avaasa1.jpg",
+      "brand": "avaasa",
+      "name": "AVAASA MIX N' MATCH",
+      "desc": "Ankle-Length Leggings",
+      "price": "Rs. 499"
+    },
+    {
+      "id": "40",
+      "image": "avaasa2.jpg",
+      "brand": "avaasa",
+      "name": "AVAASA MIX N' MATCH",
+      "desc": "Printed A-line Kurta",
+      "price": "Rs. 890"
+    },
+    {
+      "id": "41",
+      "image": "avaasa3.jpg",
+      "brand": "avaasa",
+      "name": "AVAASA MIX N' MATCH",
+      "desc": "Ankle-Length Leggings",
+      "price": "Rs. 499"
+    },
+    {
+      "id": "42",
+      "image": "gas1.jpg",
+      "brand": "gas",
+      "name": "GAS",
+      "desc": "Graphic Print Slim Fit Crew-Neck T-Shirt",
+      "price": "Rs. 960"
+    },
+    {
+      "id": "43",
+      "image": "gas2.jpg",
+      "brand": "gas",
+      "name": "GAS",
+      "desc": "Graphic Print Slim Fit Crew-Neck T-Shirt",
+      "price": "Rs. 960"
+    },
+    {
+      "id": "44",
+      "image": "gas3.jpg",
+      "brand": "gas",
+      "name": "GAS",
+      "desc": "Graphic Print Slim Fit Crew-Neck T-Shirt",
+      "price": "Rs. 960"
+    },
+    {
+      "id": "45",
+      "image": "home1.jpg",
+      "brand": "home",
+      "name": "Home Centre",
+      "desc": "Set of 6 Stainless Still Dinner Plates",
+      "price": "Rs. 1599"
+    },
+    {
+      "id": "46",
+      "image": "home2.jpg",
+      "brand": "home",
+      "name": "Home Centre",
+      "desc": "Set of 2 Graphic Print Cushion Covers",
+      "price": "Rs. 1099"
+    },
+    {
+      "id": "47",
+      "image": "home3.jpg",
+      "brand": "home",
+      "name": "Home Centre",
+      "desc": "Corsica Printed Coffee Mug - 250 ml",
+      "price": "Rs. 160"
+    },
+    {
+      "id": "48",
+      "image": "uspolo1.jpg",
+      "brand": "uspolo",
+      "name": "U.S. Polo Assn.",
+      "desc": "Biker Jacket with Insert Pockets",
+      "price": "Rs. 15990"
+    },
+    {
+      "id": "49",
+      "image": "uspolo2.jpg",
+      "brand": "uspolo",
+      "name": "U.S. Polo Assn.",
+      "desc": "Mid-Wash Slim Fit Jeans",
+      "price": "Rs. 1499"
+    },
+    {
+      "id": "50",
+      "image": "uspolo3.jpg",
+      "brand": "uspolo",
+      "name": "U.S. Polo Assn.",
+      "desc": "Mid-Wash JEans with 5 Pockets",
+      "price": "Rs. 1494"
+    },
+    {
+      "id": "51",
+      "image": "raymond1.jpg",
+      "brand": "raymond",
+      "name": "Raymond",
+      "desc": "Heathered Crew-Neck Pullover",
+      "price": "Rs. 1599"
+    },
+    {
+      "id": "52",
+      "image": "raymond2.jpg",
+      "brand": "raymond",
+      "name": "Raymond",
+      "desc": "Bandhgala with Patch Pockets",
+      "price": "Rs. 7000"
+    },
+    {
+      "id": "53",
+      "image": "raymond3.jpg",
+      "brand": "raymond",
+      "name": "Raymond",
+      "desc": "Single Breasted Suit set",
+      "price": "Rs. 5600"
+    },
+    {
+      "id": "54",
+      "image": "rarerabbit1.jpg",
+      "brand": "rarerabbit",
+      "name": "Rare Rabbit",
+      "desc": "Full Sleeve Sweatshirt",
+      "price": "Rs. 3999"
+    },
+    {
+      "id": "55",
+      "image": "rarerabbit2.jpg",
+      "brand": "rarerabbit",
+      "name": "Rare Rabbit",
+      "desc": "Solid Hooded Sweatshirt",
+      "price": "Rs. 3499"
+    },
+    {
+      "id": "56",
+      "image": "rarerabbit3.jpg",
+      "brand": "rarerabbit",
+      "name": "rare Rabbit",
+      "desc": "Full-Length Slim Fit Trousers",
+      "price": "Rs. 2600"
+    }
+  ]
+}
